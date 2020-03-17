@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kookeexafi.andreadelrio.me/sitemap.xml
